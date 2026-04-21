@@ -1,9 +1,9 @@
 import java.util.*;
 
 class Solution {
-    static List<List<String>> candidate = new ArrayList<>();
-    static Set<Set<String>> set = new HashSet<>();
-    static Set<String> serveSet = new HashSet<>();
+    List<List<String>> candidate = new ArrayList<>();
+    Set<Set<String>> set = new HashSet<>();
+    Set<String> serveSet = new HashSet<>();
     
     public int solution(String[] user_id, String[] banned_id) {
         for(String ban: banned_id){
@@ -23,7 +23,7 @@ class Solution {
         return set.size();
     }
     
-    private static boolean match(String user, String ban){
+    private boolean match(String user, String ban){
         if(user.length() != ban.length()) return false;
         
         for(int i = 0; i < user.length(); i++){
@@ -38,7 +38,7 @@ class Solution {
         return true;
     }
     
-    private static void dfs(int idx, int banSize){
+    private void dfs(int idx, int banSize){
         if(idx == banSize){
             set.add(new HashSet<>(serveSet));
             return;

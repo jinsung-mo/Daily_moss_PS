@@ -10,15 +10,13 @@ class Solution {
         }
         
         while(left <= right){
-            int mid = (left + right) / 2;
+            int mid = (left + right) / 2; 
             
-            if(isAble(stones, k, mid)){
+            if(isAble(stones, k, mid))
                 left = mid + 1;
-            }
             
-            else{
+            else
                 right = mid - 1;
-            }
             
             result = mid;
         }

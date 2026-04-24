@@ -13,9 +13,7 @@ class Solution {
         q = new ArrayDeque<>();
         area = new HashMap<>();
         
-        for(int i = 1; i <= n; i++){
-            area.put(i, new ArrayList<>());    
-        }
+        for(int i = 1; i <= n; i++){ area.put(i, new ArrayList<>()); }
         
         for(int[] road: roads){
             area.get(road[0]).add(road[1]);

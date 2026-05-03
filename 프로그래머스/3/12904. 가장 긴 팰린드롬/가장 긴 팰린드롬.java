@@ -8,10 +8,7 @@ class Solution {
             maxTwoLen = Math.max(maxTwoLen, pd(s, i, i + 1));
         }
         
-        maxOneLen = maxOneLen * 2 - 1;
-        maxTwoLen = maxTwoLen * 2;
-        
-        return Math.max(maxOneLen, maxTwoLen);
+        return Math.max(maxOneLen - 1, maxTwoLen);
     }
     
     private int pd(String s, int left, int right){
@@ -25,7 +22,7 @@ class Solution {
             else break;
         }
         
-        return count;
+        return count * 2;
     }
     
     private boolean isRange(int left, int right, String s){

@@ -8,3 +8,4 @@ where (i.fish_type, i.length) in (
     from fish_info
     group by fish_type
 )
+order by 1;

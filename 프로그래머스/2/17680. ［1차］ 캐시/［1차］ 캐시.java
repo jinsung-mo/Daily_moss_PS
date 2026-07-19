@@ -15,9 +15,9 @@ class Solution {
                 runningTime += 1;
             } else {
                 if(cacheSize == 0){
-                    runningTime = cities.length * 5;
-                    break;
+                    return cities.length * 5;
                 }
+                
                 if(q.size() == cacheSize){
                     q.poll();
                     q.offer(city);

@@ -9,7 +9,6 @@ class Solution {
             city = city.toLowerCase();
             
             if(q.contains(city)){
-                System.out.println("hit");
                 q.remove(city);
                 q.offer(city);
                 runningTime += 1;

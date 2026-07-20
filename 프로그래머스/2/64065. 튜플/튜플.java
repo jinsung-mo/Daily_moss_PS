@@ -35,7 +35,6 @@ class Solution {
         });
 
         LinkedHashSet<Integer> set = new LinkedHashSet<>();
-
         for(int i = 0; i < tuple.size(); i++){
             for(int j = 0; j < tuple.get(i).list.length; j++){
                 set.add(tuple.get(i).list[j]);
@@ -44,7 +43,6 @@ class Solution {
 
         int[] answer = new int[set.size()];
         int idx = 0;
-
         for(int num : set){
             answer[idx++] = num;
         }

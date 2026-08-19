@@ -9,12 +9,9 @@ class Solution {
         Arrays.fill(result, -1);
         
         for(int i = 1; i < numbers.length; i++){
-            
             while(!stack.isEmpty() && numbers[stack.peek()] < numbers[i]){
-                if(numbers[stack.peek()] < numbers[i]) {
-                    result[stack.peek()] = numbers[i];
-                    stack.pop();
-                }
+                result[stack.peek()] = numbers[i];
+                stack.pop();
             }
               
             stack.push(i);

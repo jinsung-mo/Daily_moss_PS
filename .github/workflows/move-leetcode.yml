@@ -1,0 +1,40 @@
+name: Move LeetCode solutions
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  move-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Move root-level LeetHub folders
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p LeetCode
+          moved=false
+          while IFS= read -r dir; do
+            [ -z "$dir" ] && continue
+            mv -- "$dir" LeetCode/
+            moved=true
+          done < <(find . -mindepth 1 -maxdepth 1 -type d -printf '%f\n' | grep -E '^[0-9]+-' || true)
+
+          if [ "$moved" = true ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: move LeetCode solutions into LeetCode directory"
+            git push
+          else
+            echo "No root-level LeetCode folders found."
+          fi

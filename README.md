@@ -36,6 +36,7 @@ _Last Updated: $(date)_
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -87,8 +88,14 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

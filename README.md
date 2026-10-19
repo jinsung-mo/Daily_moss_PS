@@ -57,6 +57,7 @@ _Last Updated: $(date)_
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -82,4 +83,12 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

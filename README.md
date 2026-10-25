@@ -48,6 +48,7 @@ _Last Updated: $(date)_
 | [0039-combination-sum](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0039-combination-sum) |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
 | [0994-rotting-oranges](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0994-rotting-oranges) |
+| [1834-single-threaded-cpu](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/1834-single-threaded-cpu) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,10 +71,12 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
+| [1834-single-threaded-cpu](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/1834-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
+| [1834-single-threaded-cpu](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
 |  |
 | ------- |

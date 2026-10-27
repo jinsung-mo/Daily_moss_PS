@@ -33,11 +33,13 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -133,4 +135,8 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0046-permutations) |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
 | [0994-rotting-oranges](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0994-rotting-oranges) |
 | [1834-single-threaded-cpu](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/1834-single-threaded-cpu) |
@@ -102,6 +103,7 @@ _Last Updated: $(date)_
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |

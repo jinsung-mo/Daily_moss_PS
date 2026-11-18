@@ -49,6 +49,7 @@ _Last Updated: $(date)_
 | ------- |
 | [0039-combination-sum](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0051-n-queens) |
 | [0347-top-k-frequent-elements](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0347-top-k-frequent-elements) |
 | [0994-rotting-oranges](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0994-rotting-oranges) |
 | [1834-single-threaded-cpu](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/1834-single-threaded-cpu) |
@@ -104,6 +105,7 @@ _Last Updated: $(date)_
 | [0022-generate-parentheses](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -141,4 +143,8 @@ _Last Updated: $(date)_
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0070-climbing-stairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/jinsung-mo/Daily_moss_PS/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
